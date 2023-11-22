@@ -212,9 +212,9 @@
 
 @media (max-width: 400px) {
     .content-for-home .img-container {
-        width: 200px;
+        width: 250px;
         height: 200px;
-        background: url(../img/home_logo_bg_hero.png) no-repeat top left;
+        background: url("../img/images/2.png") no-repeat top left;
         background-size: cover;
     }
 }

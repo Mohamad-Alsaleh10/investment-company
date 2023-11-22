@@ -184,7 +184,7 @@ html {
     display: flex;
     justify-content: center;
     align-items: center;
-    background: url("../img/images/4.jpg") no-repeat right bottom;
+    background: url("../img/images/3.png") no-repeat right bottom;
     background-size: contain;
 }
 
@@ -205,8 +205,6 @@ html {
     font-weight: bold;
     outline: none;
     width: 35%;
-
-
 }
 
 .button.download {
